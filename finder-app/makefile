@@ -5,9 +5,7 @@ else
 endif
 
 CFLAGS=-I.
-
 ODIR=obj
-
 OBJ = writer.o
 
 %.o: %.c
